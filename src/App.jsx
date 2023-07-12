@@ -13,7 +13,7 @@ import {
 
 function App() {
   return (
-    <div className="bg-primary w-full overflow-hidden">
+    <div className="bg-primary w-full overflow-hidden text-white">
       <Navbar />
       <Hero />
       <Stats />
